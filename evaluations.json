@@ -1,0 +1,31 @@
+{
+  "jesuazav/act_b1_em1": {
+    "repositoryUrl": "jesuazav/act_b1_em1",
+    "studentName": "jefferson  suaza vera",
+    "activities": [
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Estudiante.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es correcta y completa. Cumple con todos los requisitos especificados en los comentarios, incluyendo validaciones en los setters."
+      },
+      {
+        "activityDescription": "Verifica que el código cumpla con las indicaciones especificadas en los comentarios.",
+        "solutionFile": "src/main/java/com/example/Libro.java",
+        "score": 5,
+        "fileFound": true,
+        "feedback": "La solución es completa y correcta. El código está bien estructurado, implementa todos los métodos requeridos, incluyendo validaciones importantes. Excelente trabajo."
+      }
+    ],
+    "overallScore": 5,
+    "totalActivities": 2,
+    "completedActivities": 2,
+    "summary": "Completó 2/2 actividades con una calificación promedio de 5.0/5.",
+    "recommendations": [
+      "Continuar con el buen trabajo"
+    ],
+    "evaluatedAt": "2025-08-12T15:00:43.043Z",
+    "evaluatedBy": "Sistema de Evaluación"
+  }
+}
